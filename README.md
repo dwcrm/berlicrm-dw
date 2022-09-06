@@ -1,4 +1,4 @@
-berliCRM
+berliCRMxxx
 ==========
 
 berliCRM is a proven and universally applicable open source CRM system for small and medium-sized companies.
